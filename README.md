@@ -1,0 +1,2 @@
+This code is complete and ready to be used by anyone. At line 185, you will find "arrToTest". This variable is assigned to an array (which you can modify). In order to test the program yourself, all you have to do is copy and paste the variable name of whichever array you
+want, and paste it to make arrToTest equal to said array. Each sample size of input has a sorted and reversed version of it, so you can play around with those to see how it makes each algorithm behave. 
